@@ -16,11 +16,17 @@ The Developer and QA have asked Bryan and Edward to draft in a DevOps person to 
 
 Write up how the experience was for you.
 
+> What technology did you use and why?
+> What challenges did you have (if any)?
+
 ### Automate deployment
 
 1. Using any technology of choice, figure out a method of automatically deploying the MASTER branch of the fork to Shopify.
 
-Write up how the experience was for you and how you came about making technology choices.
+Write up how the experience was for you.
+
+> What technology did you use and why?
+> What challenges did you have (if any)?
 
 
 ### Slack notifications
@@ -29,8 +35,18 @@ Write up how the experience was for you and how you came about making technology
 2. Create new channel(s) which would receive notifications of a successful deployment and/or failed deployments.
 3. Get a notification into slack working.
 
-Write up how the experience was for you and how you made the decisions around notification.
+
+Write up how the experience was for you.
+
+> What technology did you use and why?
+> What challenges did you have (if any)?
 
 ### Future
 
-If you had more time, say 3 weeks, how would you extend this project and make it more robust? What features would you like to add? What technology changes would you like to make? What budget $CAD would you like to achive the outcome?
+We have 4 e-commerce stores, each store has 5 a .com, .co.uk, .com.au, .ca.
+Each store and tld has several dev themes, a QA, a Creative and Production theme.
+
+How would you extend this project to cater for the given senario? 
+What features would you like to add? 
+What technology changes would you like to make? 
+What budget $CAD would you like to achive the outcome?
