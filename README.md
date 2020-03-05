@@ -17,6 +17,7 @@ The Developer and QA have asked Bryan and Edward to draft in a DevOps person to 
 Write up how the experience was for you.
 
 > What technology did you use and why?
+
 > What challenges did you have (if any)?
 
 ### Automate deployment
@@ -26,6 +27,7 @@ Write up how the experience was for you.
 Write up how the experience was for you.
 
 > What technology did you use and why?
+
 > What challenges did you have (if any)?
 
 
@@ -39,6 +41,7 @@ Write up how the experience was for you.
 Write up how the experience was for you.
 
 > What technology did you use and why?
+
 > What challenges did you have (if any)?
 
 ### Future
@@ -46,7 +49,10 @@ Write up how the experience was for you.
 We have 4 e-commerce stores, each store has 5 a .com, .co.uk, .com.au, .ca.
 Each store and tld has several dev themes, a QA, a Creative and Production theme.
 
-How would you extend this project to cater for the given senario? 
-What features would you like to add? 
-What technology changes would you like to make? 
-What budget $CAD would you like to achive the outcome?
+1. How would you extend this project to cater for the given senario? 
+
+1. What features would you like to add? 
+
+1. What technology changes would you like to make? 
+
+1. What budget $CAD would you like to achive the outcome?
